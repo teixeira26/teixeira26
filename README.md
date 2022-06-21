@@ -1,4 +1,9 @@
-#Hi, I'm Matheus & I ❤️ code
+<div>
+   {{#markdown}}
+    #Hi, I'm Matheus & I ❤️ code
+   {{/markdown}}
+</div>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=34&duration=3000&color=F7951A&background=FFFFFF&center=true&vCenter=true&width=800&height=200&lines=Full-Stack+Developer;Back-End+Developer;Front-End+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 
@@ -39,6 +44,12 @@ https://www.linkedin.com/in/matheus-teixeira-dev/
 ###Languages and Tools:
 javascript html5 css3 bootstrap react reactnative redux sass babel nodejs express git postgresql postman typescript Figma
 
-###Visitor's 👀
-![Visitor Count](https : //profile-counter.glitch.me/teixeira26/count.svg)
+
+<div>
+   {{#markdown}}
+   ###Visitor's 👀
+   ![Visitor Count](https : //profile-counter.glitch.me/teixeira26/count.svg)
+   {{/markdown}}
+</div>
+
 
