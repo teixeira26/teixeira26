@@ -22,7 +22,7 @@ const aboutMe = {
       },
       databases: ["PostgreSQL"],
    },
-   currentOccupation: ["THead teaching assistant at Henry"],
+   currentOccupation: ["Frontend developer at Digichanges"],
 };
 ```
 </br>
