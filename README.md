@@ -1,24 +1,24 @@
 # Hi, I'm Matheus & I ❤️ code
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=34&duration=3000&color=F7951A&background=FFFFFF&center=true&vCenter=true&width=1000&height=200&lines=Full-Stack+Developer;Back-End+Developer;Front-End+Developer;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&pause=1000&color=F7DE18&center=true&vCenter=true&width=435&lines=Front+End+Developer)](https://git.io/typing-svg)
 
 
-
-<p align="center">I am 23 years old Brazilian who loves technology. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to exploit them. Welcome!!</p>
+<p align="center">I am 23 years old Brazilian who loves technology. 
+   As a front end developer, I love creating web experiences that surprise and delight users. I am proficient in HTML, CSS and JavaScript, and also have experience with various frameworks such as React, and SolidJs. I'm always on the lookout for new developments and challenges in web design, and strive to create websites that are fast, elegant, and easy to use. If you need a front end developer who knows how to combine creativity with functionality, I'm at your disposal. You can work with me on freelance or full time projects. I invite you to see some of my work in my github or in my personal portfolio. I hope to have the opportunity to work with you soon.</p>
 
 </br>
 
 ```
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python],
+   code: [Javascript, Typescript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux", "lottieJS", "Auth0"],
-         css: ["Bootstrap" ]
+         js: ["React", "Next", "Solidjs" "Redux", "lottieJS"],
+         css: ["Tailwind", "Styled components" ]
       },
       backEnd: {
-         js: ["Node", "Express", "Socket.io", "Node mailer"]
+         js: ["Node", "Express", "Socket.io"]
       },
       databases: ["PostgreSQL"],
    },
