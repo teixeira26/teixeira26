@@ -32,7 +32,9 @@ const aboutMe = {
 
 🧠 I’m currently learning Python
 
-📫 Contact me at **teixeira.matheus26@gmail.com**
+📫 Contact me at **matheus.teixeira.dev@gmail.com**
+
+😉 See my portfolio [here](https://matheus-teixeira.vercel.app)
 
 </br>
 <div align="center">
