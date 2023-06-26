@@ -1,10 +1,10 @@
 # Hi, I'm Matheus & I ❤️ code
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&pause=1000&color=F7DE18&center=true&vCenter=true&width=435&lines=Front+End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=48&pause=1000&color=F7DE18&background=FBFFEA00&center=true&vCenter=true&width=1024&height=100&lines=Front+End+Developer)](https://git.io/typing-svg)
 
 
-<p align="center">I am 23 years old Brazilian who loves technology. 
-   As a front end developer, I love creating web experiences that surprise and delight users. I am proficient in HTML, CSS and JavaScript, and also have experience with various frameworks such as React, and SolidJs. I'm always on the lookout for new developments and challenges in web design, and strive to create websites that are fast, elegant, and easy to use. If you need a front end developer who knows how to combine creativity with functionality, I'm at your disposal. You can work with me on freelance or full time projects. I invite you to see some of my work in my github or in my personal portfolio. I hope to have the opportunity to work with you soon.</p>
+<p align="center">
+ I’m a 24-year-old Brazilian tech enthusiast and front end developer. I enjoy creating web experiences that wow users with HTML, CSS, JavaScript and frameworks like React and SolidJs. I’m always up for new web design challenges and goals, and I aim to create websites that are fast, elegant, and user-friendly. If you’re looking for a creative and functional front end developer, I’m your guy. You can hire me for freelance or full time projects. Check out my github and portfolio to see some of my work. I look forward to working with you soon.</p>
 
 </br>
 
